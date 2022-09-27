@@ -12,3 +12,5 @@ Important steps for git workflow:
 ## Table of Contents
 
 - example_file.txt
+
+Just another line of text
