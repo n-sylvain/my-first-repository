@@ -14,3 +14,5 @@ Important steps for git workflow:
 - example_file.txt
 
 Just another line of text
+
+and this is another line of text
